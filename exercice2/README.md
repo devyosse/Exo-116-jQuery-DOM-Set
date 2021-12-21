@@ -28,7 +28,7 @@ Consignes :
         $("#test1").text("Hello world!");
     });
     $("#btn2").click(function(){
-        $("#test2").html("<b>Hello world!</b>");
+        p
     });
     $("#btn3").click(function(){
         $("#test3").val("Dolly Duck");
